@@ -1,10 +1,10 @@
 %include	/usr/lib/rpm/macros.php
-%define         _class          Net
-%define         _subclass       Dict
+%define		_class		Net
+%define		_subclass	Dict
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
 
-Summary:	%{_pearname} - Interface to the DICT Protocol
+Summary:	%{_pearname} - interface to the DICT protocol
 Summary(pl):	%{_pearname} - interfejs do protoko³u DICT
 Name:		php-pear-%{_pearname}
 Version:	1.0.3
