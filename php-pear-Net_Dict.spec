@@ -24,7 +24,7 @@ This class provides a simple API to the DICT Protocol handling all the
 network related issues and providing DICT responses in PHP datatypes
 to make it easy for a developer to use DICT servers in their programs.
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 Klasa ta dostarcza proste API do protoko³u DICT, daj±ce wszystkie
