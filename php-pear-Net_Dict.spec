@@ -29,7 +29,7 @@ In PEAR status of this package is: %{_status}.
 %description -l pl
 Klasa ta dostarcza proste API do protoko³u DICT, daj±ce wszystkie
 zwi±zane z sieci± w³a¶ciwo¶ci oraz dostarczaj±ce odpowiedzi DICT w
-typach danych PHP, pozwalaj±c na ³atwe u¿ycie serverów DICT w
+typach danych PHP, pozwalaj±c na ³atwe u¿ycie serwerów DICT w
 programach.
 
 Ta klasa ma w PEAR status: %{_status}.
