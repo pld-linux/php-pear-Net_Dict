@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - interface to the DICT protocol
 Summary(pl):	%{_pearname} - interfejs do protoko³u DICT
 Name:		php-pear-%{_pearname}
-Version:	1.0.3
-Release:	4
+Version:	1.0.5
+Release:	1
 License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	1c49798c35f2c1b4818dcd18f02fa7c1
+# Source0-md5:	e0046b0384516ec3c9fcbfa72fc19d52
 URL:		http://pear.php.net/package/Net_Dict/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
