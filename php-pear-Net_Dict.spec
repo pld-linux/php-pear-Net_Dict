@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - interface to the DICT protocol
-Summary(pl):	%{_pearname} - interfejs do protoko≥u DICT
+Summary(pl.UTF-8):   %{_pearname} - interfejs do protoko≈Çu DICT
 Name:		php-pear-%{_pearname}
 Version:	1.0.5
 Release:	1
@@ -30,10 +30,10 @@ to make it easy for a developer to use DICT servers in their programs.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Klasa ta dostarcza proste API do protoko≥u DICT, daj±ce wszystkie
-zwi±zane z sieci± w≥a∂ciwo∂ci oraz dostarczaj±ce odpowiedzi DICT w
-typach danych PHP, pozwalaj±c na ≥atwe uøycie serwerÛw DICT w
+%description -l pl.UTF-8
+Klasa ta dostarcza proste API do protoko≈Çu DICT, dajƒÖce wszystkie
+zwiƒÖzane z sieciƒÖ w≈Ça≈õciwo≈õci oraz dostarczajƒÖce odpowiedzi DICT w
+typach danych PHP, pozwalajƒÖc na ≈Çatwe u≈ºycie serwer√≥w DICT w
 programach.
 
 Ta klasa ma w PEAR status: %{_status}.
