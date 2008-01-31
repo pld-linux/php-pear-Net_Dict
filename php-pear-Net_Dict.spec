@@ -8,7 +8,7 @@ Summary:	%{_pearname} - interface to the DICT protocol
 Summary(pl.UTF-8):	%{_pearname} - interfejs do protokołu DICT
 Name:		php-pear-%{_pearname}
 Version:	1.0.5
-Release:	1
+Release:	2
 License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
