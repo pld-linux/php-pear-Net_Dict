@@ -3,18 +3,17 @@
 %define		_subclass	Dict
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
-
 Summary:	%{_pearname} - interface to the DICT protocol
 Summary(pl.UTF-8):	%{_pearname} - interfejs do protokołu DICT
 Name:		php-pear-%{_pearname}
 Version:	1.0.6
-Release:	1
+Release:	2
 License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 # Source0-md5:	d2dfd21a1c2736e9454b7a59152e6c38
 URL:		http://pear.php.net/package/Net_Dict/
-BuildRequires:	php-pear-PEAR
+BuildRequires:	php-pear-PEAR >= 1:1.5.4
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 BuildRequires:	rpmbuild(macros) >= 1.300
 Requires:	php-pear
